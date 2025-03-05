@@ -1,0 +1,5 @@
+name: AntiRob
+author: Dianelito
+version: '1.3'
+main: dianelito.antirob.AntiRoboPlugin
+api-version: '1.18'
